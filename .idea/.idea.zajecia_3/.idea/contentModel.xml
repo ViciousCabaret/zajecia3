@@ -14,7 +14,6 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Student.cs" t="Include" />
-        <e p="User.cs" t="Include" />
         <e p="zajecia_3.csproj" t="IncludeRecursive" />
       </e>
       <e p="zajecia_3.sln" t="IncludeFlat" />

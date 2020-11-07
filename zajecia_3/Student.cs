@@ -4,9 +4,9 @@
     {
         private uint _nrIndeksu;
 
-        public Student() : base("imie", "nazwisko")
+        public Student(string imie, string nazwisko, uint index) : base(imie, nazwisko)
         {
-            this._nrIndeksu = 123;
+            this._nrIndeksu = index;
         }
 
         public override string ToString()

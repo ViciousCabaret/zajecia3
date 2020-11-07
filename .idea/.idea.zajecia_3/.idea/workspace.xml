@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="735309f7-ecd1-4450-b834-64baf62073f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.zajecia_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.zajecia_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia_3/User.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zajecia_3/zajecia_3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/zajecia_3/zajecia_3.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +15,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/zajecia_3/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/zajecia_3/User.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/zajecia_3/Osoba.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/zajecia_3/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/zajecia_3/Student.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604749284610</updated>
-      <workItem from="1604749291706" duration="1825000" />
+      <workItem from="1604749291706" duration="2065000" />
     </task>
     <servers />
   </component>

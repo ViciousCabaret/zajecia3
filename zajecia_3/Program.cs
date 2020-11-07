@@ -6,9 +6,13 @@ namespace zajecia_3
     {
         public static void Main(string[] args)
         {
-            Osoba example1 = new Osoba();
-            Osoba example2 = new Student();
-            Student example3 = new Student();
+            string imie = "imie";
+            string nazwisko = "nazwisko";
+            uint indeks = 123;
+            
+            Osoba example1 = new Osoba(imie, nazwisko);
+            Osoba example2 = new Student(imie, nazwisko, indeks);
+            Student example3 = new Student(imie, nazwisko, indeks);
 
             Console.WriteLine(example1.ToString());
             Console.WriteLine(example2.ToString());
