@@ -1,0 +1,6 @@
+C:\Users\mikol\RiderProjects\testproject\zajecia_3\zajecia_3\obj\Debug\zajecia_3.csprojAssemblyReference.cache
+C:\Users\mikol\RiderProjects\testproject\zajecia_3\zajecia_3\obj\Debug\zajecia_3.csproj.CoreCompileInputs.cache
+C:\Users\mikol\RiderProjects\testproject\zajecia_3\zajecia_3\bin\Debug\zajecia_3.exe
+C:\Users\mikol\RiderProjects\testproject\zajecia_3\zajecia_3\bin\Debug\zajecia_3.pdb
+C:\Users\mikol\RiderProjects\testproject\zajecia_3\zajecia_3\obj\Debug\zajecia_3.exe
+C:\Users\mikol\RiderProjects\testproject\zajecia_3\zajecia_3\obj\Debug\zajecia_3.pdb
